@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jonaszuberbuehler/ion-affix.git"
+        "url": "git+https://github.com/Missile71/ion-affix.git"
     },
     "keywords": [
         "ionic",
@@ -23,9 +23,9 @@
     "author": "Jonas Zuberbuehler <jonas.zuberbuehler@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jonaszuberbuehler/ion-affix/issues"
+        "url": "https://github.com/Missile71/ion-affix/issues"
     },
-    "homepage": "https://github.com/jonaszuberbuehler/ion-affix#readme",
+    "homepage": "https://github.com/Missile71/ion-affix#readme",
     "devDependencies": {
         "@angular/common": "5.0.1",
         "@angular/compiler": "5.0.1",
